@@ -1,4 +1,4 @@
-__pycache__/
+scanner/__pycache__/
 *.pyc
 report.json
 .env
