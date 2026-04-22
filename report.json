@@ -1,0 +1,24 @@
+{
+    "domain": "google.com",
+    "tls": "TLSv1.3",
+    "cipher": {
+        "name": "TLS_AES_256_GCM_SHA384",
+        "protocol": "TLSv1.3"
+    },
+    "certificate": {
+        "issued_to": "*.google.com",
+        "issued_by": "WR2",
+        "expiry": "2026-06-22 08:35:07",
+        "is_expired": false
+    },
+    "handshake": {
+        "handshake_steps": [
+            "Error: [WinError 2] The system cannot find the file specified"
+        ],
+        "count": 1
+    },
+    "analysis": {
+        "issues": [],
+        "risk": "Low"
+    }
+}
